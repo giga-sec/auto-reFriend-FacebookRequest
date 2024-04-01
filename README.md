@@ -4,6 +4,8 @@
 
 # How to use?
 The target audience for this project requires prior programming skills
+
 Therefore, this is only best used as a reference
-Ultimately, this project was only intended for personal use and was never meant to be publicly available
+
+Ultimately, this project was only intended for personal use and was never meant to be publicly available.
 
